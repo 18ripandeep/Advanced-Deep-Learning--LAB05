@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.png
+.env
+
+%%writefile requirements.txt
+torch>=2.0.0
+matplotlib>=3.5.0
